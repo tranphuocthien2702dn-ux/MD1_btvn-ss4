@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+ p + div {
+    color:red;
+}
+ .tip{
+    background-color: #ffffcc;
+    border-left: 6px solid #ff9900;
+    padding:15px;
+    margin-top:20px;
+ }
+ 
